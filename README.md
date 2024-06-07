@@ -41,4 +41,4 @@ Untuk ketentuan endpoint restful api dosen sebagai berikut:
 | PUT | /dosen/edit/:id |
 | DELETE | /dosen/delete/:id |
 
-jika tugas sudah selesai, susun semua endpoint dalam satu collection Postman. kemudian share/invite collection ke email ahmadsaleh2409@gmail.com
+jika tugas sudah selesai, susun semua endpoint dalam satu collection Postman atau Upload ke github pribadi (pilih salah satu, atau keduanya lebih baik). kemudian share/invite collection postman atau repository github nya ke email ahmadsaleh2409@gmail.com
